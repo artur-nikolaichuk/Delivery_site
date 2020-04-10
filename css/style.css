@@ -522,6 +522,12 @@ header{
     .footer-link:last-child{
         margin-left: 0;
     }
+    .input-section{
+        display: none;
+    }
+    .footer-nav{
+        display: none;
+    }
 }
 
 @media (max-width:768px){
